@@ -9,7 +9,8 @@ Hoje aplico essa visão de processos no desenvolvimento de software e na anális
 ## 🛠️ Tecnologias
 
 - **Front-end:** React, TypeScript, JavaScript, HTML5, CSS3, Sass, Vite
-- **Ferramentas:** Git, GitHub, Vercel, Oxlint
+- **Testes e qualidade:** Vitest, Oxlint
+- **Ferramentas:** Git, GitHub, Vercel
 - **Estudando agora:** Python e Excel aplicados a dados
 
 ## 📂 Projetos
